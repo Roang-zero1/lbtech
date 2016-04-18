@@ -1,0 +1,34 @@
+{
+  "name": "lucas.brandstaetter.tech",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "extfs": "0.0.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roang-zero1/lbtech.git"
+  },
+  "keywords": [
+    "website",
+    "flat",
+    "html"
+  ],
+  "author": "Lucas Brandstaetter (lucas@brandstaetter.tech)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roang-zero1/lbtech/issues"
+  },
+  "homepage": "https://github.com/Roang-zero1/lbtech#readme"
+}
